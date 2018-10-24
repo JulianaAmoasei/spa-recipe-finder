@@ -11,11 +11,11 @@ Esse projeto é um single page app para encontrar receitas que usa a API Yummly 
 ### Screenshot
 Home page
 
-![screen shot](https://raw.githubusercontent.com/carolfortunato/labcar/master/screenshot1.png)
+![screen shot](https://raw.githubusercontent.com/carolfortunato/spa-recipe-finder/master/screenshot-home.png)
 
 Recipes page
 
-![screen shot](https://raw.githubusercontent.com/carolfortunato/labcar/master/screenshot1.png)
+![screen shot](https://raw.githubusercontent.com/carolfortunato/spa-recipe-finder/master/screenshot-recipe.png)
 
 
 ### Acesse o site
